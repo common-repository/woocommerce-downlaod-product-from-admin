@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Downlaod Product From Admin\n"
+"POT-Creation-Date: 2017-02-22 10:16+0330\n"
+"PO-Revision-Date: 2017-02-22 10:16+0330\n"
+"Last-Translator: wp-master.ir <wp@wp-master.ir>\n"
+"Language-Team: wp@wp-master.ir <wp@wp-master.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:38
+msgid "Dll"
+msgstr "دانلود"
+
+#: index.php:116
+msgid "Download box"
+msgstr "باکس دانلود"
+
+#~ msgid "Download"
+#~ msgstr "دانلود"
+
+#~ msgid "Woocommerce Downlaod Product From Admin"
+#~ msgstr "دانلود محصولات مجازی ووکامرس از مدیریت"
+
+#~ msgid "Easily download products from admin , by <a href=\"http://wp-master.ir\">Wp master</a>"
+#~ msgstr "به راحتی محصولاتتان را از مدیریت دانلود کنید , توسط <a href=\"http://wp-master.ir\">استاد وردپرس</a>"
+
+#~ msgid "Salavat counter in widget and shortcode mode"
+#~ msgstr "صلوات شمار در حالتهای ابزارک و کدکوتاه"
+
+#~ msgid "salavat counter"
+#~ msgstr "صلوات شمار"
+
+#~ msgid "title"
+#~ msgstr "عنوان"
+
+#~ msgid "for"
+#~ msgstr "برای"
+
+#~ msgid "salavat was saied till now!"
+#~ msgstr "صلوات تا اکنون فرستاده شده است!"
+
+#~ msgid "say 1 salavat"
+#~ msgstr "صلوات بفرستید"
+
+#~ msgid "for working salavat counter javascript is needed."
+#~ msgstr "برای کارکرد صلوات شمار،جاوا اسکریپت نیاز است."
+
+#~ msgid "Salavat counter"
+#~ msgstr "صلوات شمار"
+
+#~ msgid "say salavat for:"
+#~ msgstr "فرستادن صلوات برای:"
+
+#~ msgid "Display image?"
+#~ msgstr "نمایش تصویر صلوات؟"
+
+#~ msgid "if you want to use any subject for salavats fill it , otherwise leave it empty"
+#~ msgstr "اگر نیتی در ارسال صلواتها دارید این گزینه را تکمیل کنید،در غیر این صورت آن را خالی بگذارید."
+
+#~ msgid "show image or not"
+#~ msgstr "تصویر را در ابزارک نمایش می دهد"
+
+#~ msgid "submit"
+#~ msgstr "ثبت"
+
+#~ msgid "Usage:"
+#~ msgstr "نحوه استفاده:"
+
+#~ msgid "widget"
+#~ msgstr "ابزارک"
+
+#~ msgid "you can use salavat counter widget "
+#~ msgstr "میتوانید از ابزارک صلوات شمار استفاده کنید"
+
+#~ msgid "shortcode"
+#~ msgstr "کدکوتاه"
+
+#~ msgid "you can use [salavat_counter] shortcode in anywhere you want,posts,pages,... "
+#~ msgstr "با استفاده از کدکوتاه  [salavat_counter] میتوانید صلوات شمار را در هرجای پستها،برگه ها،... نمایش دهید"
+
+#~ msgid "theme"
+#~ msgstr "قالب،کد"
+
+#~ msgid "use this code anywhere in your theme codes:"
+#~ msgstr "با استفاده از این کد میتوانید صلوات شمار را در هرجای کد و قالب خود جایگذاری کنید:"
+
+#~ msgid "Simple"
+#~ msgstr "ساده"
+
+#~ msgid "Radius1"
+#~ msgstr "انحنای 1"
+
+#~ msgid "Radius2"
+#~ msgstr "انحنای 2"
+
+#~ msgid "Float"
+#~ msgstr "شناور"
+
+#~ msgid "Shadow"
+#~ msgstr "سایه دار"
+
+#~ msgid "ADS widget"
+#~ msgstr "*ابزارک تبلیغات*"
+
+#~ msgid "A widget to display ads as widget"
+#~ msgstr "ابزارکی برای نمایش متنوع تبلیغات"
+
+#~ msgid "Ads"
+#~ msgstr "تبلیغات"
+
+#~ msgid "ads widget"
+#~ msgstr "*ابزارک تبلیغات*"
+
+#~ msgid "-Remove row"
+#~ msgstr "-حذف سطر"
+
+#~ msgid "Add Ads Here"
+#~ msgstr "تبلیغات را اینجا اضافه کنید"
+
+#~ msgid "+Add row"
+#~ msgstr "+افزودن سطر"
+
+#~ msgid "Save"
+#~ msgstr "ذخیره "
+
+#~ msgid "manipulate Settings here"
+#~ msgstr "تنظیمات را اینجا ویرایش کنید"
+
+#~ msgid "Save Settings"
+#~ msgstr "ذخیره تنظیمات"
+
+#~ msgid "Usage"
+#~ msgstr "استفاده"
+
+#~ msgid "First you need add plugin widget to suitable place at your sidebar,then you may come here and add ads or change settings,note that you can use just one widget!<br>Please insert links with http://<br> for changing order drag items vertically!"
+#~ msgstr "ابتدا نیاز است که ابزارک پلاگین را در جای مناسبی از سایدبار قالبتان اضافه کنید،سپس به اینجا آمده و تبلیغات را اضافه می کنید و یا تنظیمات را تغییر می دهید.دقیت کنید که شما فقط یک ابزارک می توانید استفاده کنید.<br>لطفا لینک را با http:// وارد کنید.<br>برای جابجایی اولویتها آیتمها را درگ کنید و سپس ذخیره را بزنید."
+
+#~ msgid "ads"
+#~ msgstr "تبلیغات"
+
+#~ msgid "Add row"
+#~ msgstr "یک سطر اضافه کن"
+
+#~ msgid "settings"
+#~ msgstr "تنظیمات"
+
+#~ msgid "ads widget settings"
+#~ msgstr "**ابزارک تبلیغاتتنظیمات **"
+
+#~ msgid "Text ads"
+#~ msgstr "تبلیغات متنی"
+
+#~ msgid "+Whatchlist"
+#~ msgstr "+اضافه به لیست علاقه مندیها"
+
+#~ msgid "No Posts in list"
+#~ msgstr "موردی در لیست وجود ندارد."
+
+#~ msgid "myfavoritposts settings"
+#~ msgstr "تنظیمات لیست پستهای مورد علاقه"
+
+#~ msgid "settings saved successfully."
+#~ msgstr "تنظیمات با موفقیت ثبت شدند."
+
+#~ msgid "shortcode inserted page"
+#~ msgstr "صفحه حاوی کد کوتاه"
+
+#~ msgid "Enable auto add to posts?"
+#~ msgstr "اضافه شدن خودکار دکمه به پستها؟"
+
+#~ msgid "max user bookmark"
+#~ msgstr "حداکثر مقدار مجاز برای لیست علاقه مندیها"
+
+#~ msgid "save"
+#~ msgstr "ذخیره"
+
+#~ msgid "Here is codes for use:"
+#~ msgstr "کدهای مورد نیاز:"
+
+#~ msgid "shortcode for page"
+#~ msgstr "کدکوتاه برای برگه ها"
+
+#~ msgid "for inserting in theme code"
+#~ msgstr "کد برای گذاشتن در پوسته"
+
+#~ msgid "your wathlist has been reached,you can remove from list.."
+#~ msgstr "لیست شما پر شده است."
+
+#, fuzzy
+#~ msgid "Please login first."
+#~ msgstr "لطفا ابتدا وارد شوید."
+
+#~ msgid "page id"
+#~ msgstr "شماره صفحه"
+
+#, fuzzy
+#~ msgid "Max Bookmarks reached! try remove other one from list."
+#~ msgstr "لیست مورد علاقه شما پر شده است،می توانید بعضی ها رو پاک کنید."
